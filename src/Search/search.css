@@ -1,0 +1,11 @@
+.search{
+    z-index: 2;
+    background-color: gray;
+    position: absolute;
+     height: 200px;
+     width: 100%; 
+}
+
+.relative{
+    position: relative;
+}

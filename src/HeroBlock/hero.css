@@ -1,0 +1,7 @@
+.hero__content{
+    background-image: url('./hero.jpg');
+    height:800px;
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding-left: 30px;
+}

@@ -1,0 +1,15 @@
+.flex{
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+}
+
+@media (max-width:450px){
+    .flex{
+        display: block;
+    }
+} 
+
+.imgaa{
+    max-width: 100%;
+}
